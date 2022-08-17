@@ -8,6 +8,6 @@
   
 <div class="see-ya">
   <spam> 
-    See you later. Bye,
+    See you later. Bye.
   </spam>
 </div>
